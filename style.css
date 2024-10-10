@@ -5,6 +5,7 @@
 .hero{
     background-color: #464B9B;
     display: flex;
+    width:100%;
     padding: 10px;
     justify-content: space-evenly;
 }
@@ -70,6 +71,7 @@
 .section2{
     padding: 1rem;
     background: #F0F0F5;
+    width:100%;
 
     /* border: 2px solid red; */
 }
